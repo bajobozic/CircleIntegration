@@ -4,7 +4,7 @@
 
 general:
     artifacts:
-        - /home/ubuntu/CircleIntegration/app/build/outputs/apk/
+        - /home/ubuntu/MyApplication/app/build/outputs/apk/
 
 machine:
     environment:
