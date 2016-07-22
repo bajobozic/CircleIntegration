@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="material">Material</string>
+    <string name="tab_one_title">Uno</string>
+    <string name="tab_two_title">Duo</string>
+    <string name="tab_three_title">Tree</string>
+    <string name="settings">Settings</string>
+    <string name="podesavanja">Podesavanja</string>
+</resources>
